@@ -7,7 +7,7 @@ public class Foo {
 	}
 	
 	public void Bar() {
-		
+		System.out.println("Cool");
 	}
 	
 }
